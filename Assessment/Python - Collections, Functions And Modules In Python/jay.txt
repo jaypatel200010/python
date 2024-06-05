@@ -1,0 +1,43 @@
+-------------------------------------------------------
+2024-06-05 17:15:35.348
+E-Note Title: hello
+E-Note Description: how are you
+Note Generator: jay
+
+-------------------------------------------------------
+2024-06-05 17:16:02.818
+E-Note Title: jshxjxh
+E-Note Description: hxjshxsjxhsj
+Note Generator: jay
+
+
+-------------------------------------------------------
+2024-06-05 17:17:26.277
+E-Note Title: python
+E-Note Description: python is fun
+Note Generator: ketan
+
+-------------------------------------------------------
+2024-06-05 17:19:10.930
+E-Note Title: jay
+E-Note Description: kjakxjakxaxxjaakxj
+                           Note Generator: jay
+
+-------------------------------------------------------
+2024-06-05 17:19:58.635
+E-Note Title: python
+E-Note Description: python is fun
+                  Note Generator: jay
+
+-------------------------------------------------------
+2024-06-05 17:28:24.706
+E-Note Title: python
+E-Note Description: python is fun
+                  Note Generator: jay
+
+-------------------------------------------------------
+2024-06-05 17:35:10.721
+E-Note Title: python
+E-Note Description: python has scope in web application, AI ML, cloud etc.
+                  Note Generator: jay
+
