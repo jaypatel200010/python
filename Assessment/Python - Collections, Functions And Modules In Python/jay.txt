@@ -41,3 +41,9 @@ E-Note Title: python
 E-Note Description: python has scope in web application, AI ML, cloud etc.
                   Note Generator: jay
 
+-------------------------------------------------------
+2024-06-06 09:10:39.402
+E-Note Title: python
+E-Note Description: python is fun
+                  Note Generator: jay
+

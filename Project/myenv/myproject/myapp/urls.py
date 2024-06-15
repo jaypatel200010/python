@@ -19,5 +19,17 @@ from django.urls import path,include
 from.import views
 
 urlpatterns = [
-    path('index/', views.index, name='index')
+    path('index/', views.index, name='index'),
+    path('about/', views.about, name='about'),
+    path('blog/', views.blog, name='blog'),
+    path('cart/', views.cart, name='cart'),
+    path('checkout/', views.checkout, name='checkout'),
+    path('contact/', views.contact, name='contact'),
+    path('services/', views.services, name='services'),
+    path('shop/', views.shop, name='shop'),
+    path('thankyou/', views.thankyou, name='thankyou'),
+    path('signup/', views.signup, name='signup'),
+    path('login/', views.login, name='login'),
+    path('logout/', views.logout, name='logout'),
+    path('cpass/', views.cpass, name='cpass'),
 ]

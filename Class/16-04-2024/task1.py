@@ -7,3 +7,4 @@
 
 a = int(input("Enter no of days : "))
 print("year : ", a/365)
+
