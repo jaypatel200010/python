@@ -1,5 +1,5 @@
 # 34] Write a Python script to check if a given key already exists in a dictionary.
-dict1={1:'nikhil',2:4,3:'purshottam'}
+dict1={1:'jay',2:4,3:'Himanshu'}
 # User input to enter the key to check
 u_key = int(input("Enter key for the dictionary to check if it exists or not: "))
 # Check if the key exists in the dictionary

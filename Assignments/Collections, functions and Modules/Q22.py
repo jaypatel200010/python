@@ -6,4 +6,4 @@ n=int(input("enter number that you want to check in tuple exists or not = "))
 if n in tuple1:
     print("element exists in tuple1 : :")
 else:
-    print("element can not exists in tuple1 : :")
+    print("element does not exists in tuple1 : :")
