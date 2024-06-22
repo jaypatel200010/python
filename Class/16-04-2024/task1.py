@@ -5,6 +5,8 @@
 
 #days to year
 
-a = int(input("Enter no of days : "))
-print("year : ", a/365)
+# a = int(input("Enter no of days : "))
+# print("year : ", a/365)
+
+
 
