@@ -1,5 +1,6 @@
 from django.shortcuts import render,redirect
 from . models import *
+import random
 # Create your views here.
 
 def index(request):
@@ -98,3 +99,9 @@ def cpass(request):
 
     else:
         return render(request,'cpass.html')
+    
+def fpass(request):
+    user = User.objects.get(mobile=request.POST['mobile'])
+    mobile = request.POST['mobile']
+    otp = random.randint(1001,9999)
+    return render(request,'fpass.html')
