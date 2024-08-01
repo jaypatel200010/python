@@ -1,7 +1,7 @@
 # 3] Write a Python program to append text to a file and display the text.
 # Open the file "Q1.txt" in append mode ("a").
 f1 = open("Q1.txt", "a")
-# Write the string "I am BCA student" to the file.
+# Write the string "I am Jaykumar Patel" to the file.
 f1.write("I am Jaykumar Patel\n")
 # Close the file to save changes.
 f1.close()
